@@ -1,0 +1,39 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/me/Documents/NetBeansProjects/Proyectofinal/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/me/Documents/NetBeansProjects/Proyectofinal/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Proyectofinal 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/me/Documents/NetBeansProjects/Proyectofinal/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Proyectofinal 1.0-SNAPSHOT API'
+com.codoacodo.proyectofinal
+C:\Users\me\Documents\NetBeansProjects\Proyectofinal\src\main\java = 1703009155092
+C:\Users\me\Documents\NetBeansProjects\Proyectofinal\target\site\apidocs\allclasses-frame.html = 1703191304109
+C:\Users\me\Documents\NetBeansProjects\Proyectofinal\target\site\apidocs\allclasses-noframe.html = 1703191304111
+C:\Users\me\Documents\NetBeansProjects\Proyectofinal\target\site\apidocs\constant-values.html = 1703191303530
+C:\Users\me\Documents\NetBeansProjects\Proyectofinal\target\site\apidocs\deprecated-list.html = 1703191304068
+C:\Users\me\Documents\NetBeansProjects\Proyectofinal\target\site\apidocs\help-doc.html = 1703191304125
+C:\Users\me\Documents\NetBeansProjects\Proyectofinal\target\site\apidocs\index-all.html = 1703191304062
+C:\Users\me\Documents\NetBeansProjects\Proyectofinal\target\site\apidocs\index.html = 1703191304114
+C:\Users\me\Documents\NetBeansProjects\Proyectofinal\target\site\apidocs\overview-tree.html = 1703191304058
+C:\Users\me\Documents\NetBeansProjects\Proyectofinal\target\site\apidocs\package-list = 1703191303460
+C:\Users\me\Documents\NetBeansProjects\Proyectofinal\target\site\apidocs\script.js = 1703191304133
+C:\Users\me\Documents\NetBeansProjects\Proyectofinal\target\site\apidocs\stylesheet.css = 1703191304128
